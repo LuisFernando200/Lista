@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1677398392 source:c:\users\garci\onedrive\escritorio\c++\lista\main.cpp
+	<iostream>
+	"ListaSimple.h"
+	"Nodo.h"
+
+1676584528 source:c:\users\garci\onedrive\escritorio\c++\lista\nodo.cpp
+	"Nodo.h"
+
+1676584663 c:\users\garci\onedrive\escritorio\c++\lista\nodo.h
+	<iostream>
+
+1677398222 source:c:\users\garci\onedrive\escritorio\c++\lista\listasimple.cpp
+	"ListaSimple.h"
+	"Nodo.h"
+	<iostream>
+
+1677464463 c:\users\garci\onedrive\escritorio\c++\lista\listasimple.h
+	"Nodo.h"
+
